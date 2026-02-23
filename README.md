@@ -50,7 +50,7 @@ image: ghcr.io/MASYONY/octane-collection-tool
 
 ## Konfiguration
 
-`config.properties` (im Arbeitsverzeichnis oder über `--config-file`):
+`config.properties` (im Arbeitsverzeichnis oder über `--config-file` OPTIONAL):
 
 ```properties
 server=http://octane.example.com:8080
